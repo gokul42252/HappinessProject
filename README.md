@@ -1,63 +1,20 @@
 # HappinessProject
 Playing with Jetpack Compose
 
-
-https://github.com/user-attachments/assets/c78bf24a-57d6-48c9-9b5a-3d3eed21df5e
-
-
-
-https://github.com/user-attachments/assets/93d38776-3e25-492e-aadf-6bd30ef4812a
-
-
-
-https://github.com/user-attachments/assets/0a9f56f0-4833-4270-9d90-58ae999d6f9f
-
-
-
-https://github.com/user-attachments/assets/5ad2e9e7-16d7-4801-a298-c310c5d20f1a
-
-
-
-https://github.com/user-attachments/assets/b423d9e1-cecc-49e6-9ba8-87be68fb61e2
-
-
-
-https://github.com/user-attachments/assets/363ca095-ffb9-4f0c-83df-e9ebe6365515
-
-
-
-https://github.com/user-attachments/assets/6c8bc20c-06b6-41dc-97f2-cd34322fff38
-
-
-
-https://github.com/user-attachments/assets/c4533dc8-fc09-41e1-8d9c-561f79aaa0d9
-
-
-
-https://github.com/user-attachments/assets/580d9cdc-f1bf-401a-923c-21a2225b44c8
-
-
-
-https://github.com/user-attachments/assets/192e329f-ac03-41d3-abff-218e6e718f82
-
-
-
-https://github.com/user-attachments/assets/04d6c0a9-a5d2-4583-b30c-b602f033f4f6
-
-
-
-https://github.com/user-attachments/assets/d2bcd9fc-0c9f-4bf5-aa60-53c15d654fce
-
-
-
-https://github.com/user-attachments/assets/a94a73a1-d009-48d0-9617-33ee64aeef64
-
-
-
-https://github.com/user-attachments/assets/a052ea20-8fc8-424e-a981-34b276054322
-
-
-
+![e37c3cc9-b3fc-4fbc-85e3-8ced293d7a1c](https://github.com/user-attachments/assets/0700b5fe-3fdc-427e-bab0-10e79fbfed1d)
+![e0c81d07-63d4-4c06-aa47-48234188a61d](https://github.com/user-attachments/assets/1614bb2a-fa93-43b2-9157-81b82d35427a)
+![c92a5ddb-86e0-479b-88f5-8a64d681d797](https://github.com/user-attachments/assets/eca0e0ce-fbc1-43c1-b655-5beb97b814fd)
+![b680fdc2-427b-4b17-b6fa-a5db9f7494eb](https://github.com/user-attachments/assets/5e59c68f-8ed7-41e8-b8d4-ebd2950d89d9)
+![b1b92a42-2606-4f9e-8754-3b36ab3cef02](https://github.com/user-attachments/assets/8ff2e030-6c26-4fb1-939a-dea16834715a)
+![ad058d32-23b4-4dd1-8fee-f98d7804df8d](https://github.com/user-attachments/assets/8e0270d6-b8d6-48d0-834c-1831d947d27f)
+![7616f967-3ba9-44b6-b49d-9880282e6674](https://github.com/user-attachments/assets/cae6570b-6ad8-4c51-9976-50a21fe4ff06)
+![3105e45d-1522-4130-ba1b-c7140c910e32](https://github.com/user-attachments/assets/76068eae-cc7c-4e66-b95e-4bc1d52ed321)
+![317b8b16-ebe6-46e0-a785-cd5e7af8b941](https://github.com/user-attachments/assets/eb7a2297-0803-4b81-8559-36e8c87969c3)
+![9d420258-559f-49c0-afd0-81e51d635347](https://github.com/user-attachments/assets/349b92c8-f51e-4d97-b7da-b6e2b6a880b4)
+![8be774b0-654b-40df-8c87-b6afb7de33d1](https://github.com/user-attachments/assets/47b2f44c-f74f-45dc-8de3-f9373e673ae5)
+![8b0b1ac4-b584-4d58-8028-8c800d98062d](https://github.com/user-attachments/assets/b030bced-f670-43a8-850a-8bcf974df96c)
+![6c21e652-458d-45e9-afe7-169887c7c765](https://github.com/user-attachments/assets/282d9da4-e2e0-43c5-9264-f0ea3c29f0ff)
+![1a9a724e-828f-4b9e-845b-849dcd8798e9](https://github.com/user-attachments/assets/c609d0c2-1315-4f4d-b729-eb4bb6d49547)
 
 
 # Jetpack Compose Animation Research

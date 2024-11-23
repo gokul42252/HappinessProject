@@ -59,6 +59,55 @@ This project is licensed under the [MIT License](LICENSE).
 
 * [Jetpack Compose Animation Documentation](https://developer.android.com/jetpack/compose/animation)
 * [Compose Animation Codelab](https://developer.android.com/codelabs/jetpack-compose-animation)
-* [Other relevant resources or libraries]
+
+
+
+Uploading WhatsApp Video 2024-11-23 at 23.29.04_bf7cc638.mp4…
+
+
+
+https://github.com/user-attachments/assets/db23420b-4f1d-4f80-b239-f4ad7d8df439
+
+
+
+https://github.com/user-attachments/assets/1b09323f-7c72-4495-8ead-dafdebedef69
+
+
+
+https://github.com/user-attachments/assets/357cecdd-11ff-45b8-be48-42c9487428f0
+
+
+
+https://github.com/user-attachments/assets/2779adb9-a0e3-4084-8910-45506c4de295
+
+
+
+https://github.com/user-attachments/assets/0b02fc18-f755-4ec4-92a8-315e2a6cd6c6
+
+
+
+https://github.com/user-attachments/assets/b15fa111-b90e-421e-80fb-ac3ce8bf6eef
+
+
+
+https://github.com/user-attachments/assets/739bf20c-ca41-44ef-b474-12cae5f088fb
+
+
+
+https://github.com/user-attachments/assets/bee934e1-27f2-42aa-a7fd-6ffdd8838b26
+
+
+
+https://github.com/user-attachments/assets/8b8c05f0-d692-4657-83a4-ce5fd5986f38
+
+
+
+https://github.com/user-attachments/assets/8f93ec98-afa8-4edd-873e-3c55c9cb38fd
+
+
+
+https://github.com/user-attachments/assets/f63862a8-18fb-4346-8cfc-850b037ab444
+
+
 
 

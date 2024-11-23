@@ -20,7 +20,7 @@ Playing with Jetpack Compose
 </table>
 
 
-# Jetpack Compose Animation Research
+# Jetpack Compose Animation Learnings
 
 This repository explores various animation techniques and concepts within Jetpack Compose, aiming to provide insights and practical examples for creating engaging and interactive user experiences.
 

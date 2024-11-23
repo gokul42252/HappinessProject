@@ -3,22 +3,21 @@ Playing with Jetpack Compose
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0700b5fe-3fdc-427e-bab0-10e79fbfed1d" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/1614bb2a-fa93-43b2-9157-81b82d35427a" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/eca0e0ce-fbc1-43c1-b655-5beb97b814fd" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/0700b5fe-3fdc-427e-bab0-10e79fbfed1d" width="50%"></td>
+    <td><img src="https://github.com/user-attachments/assets/1614bb2a-fa93-43b2-9157-81b82d35427a" width="50%"></td>
+    <td><img src="https://github.com/user-attachments/assets/eca0e0ce-fbc1-43c1-b655-5beb97b814fd" width="50%"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/5e59c68f-8ed7-41e8-b8d4-ebd2950d89d9" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/8ff2e030-6c26-4fb1-939a-dea16834715a" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/8e0270d6-b8d6-48d0-834c-1831d947d27f" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/5e59c68f-8ed7-41e8-b8d4-ebd2950d89d9" width="50%"></td>
+    <td><img src="https://github.com/user-attachments/assets/8ff2e030-6c26-4fb1-939a-dea16834715a" width="50%"></td>
+    <td><img src="https://github.com/user-attachments/assets/8e0270d6-b8d6-48d0-834c-1831d947d27f" width="50%"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cae6570b-6ad8-4c51-9976-50a21fe4ff06" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/76068eae-cc7c-4e66-b95e-4bc1d52ed321" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/eb7a2297-0803-4b81-8559-36e8c87969c3" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/cae6570b-6ad8-4c51-9976-50a21fe4ff06" width="50%"></td>
+    <td><img src="https://github.com/user-attachments/assets/76068eae-cc7c-4e66-b95e-4bc1d52ed321" width="50%"></td>
+    <td><img src="https://github.com/user-attachments/assets/eb7a2297-0803-4b81-8559-36e8c87969c3" width="50%"></td>
   </tr>
 </table>
-
 
 
 # Jetpack Compose Animation Research
